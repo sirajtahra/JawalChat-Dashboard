@@ -1,0 +1,24 @@
+{
+  "name": "jawalchat-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirajtahra/JawalChat-Dashboard.git"
+  },
+  "author": "Siraj Tahra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirajtahra/JawalChat-Dashboard/issues"
+  },
+  "homepage": "https://github.com/sirajtahra/JawalChat-Dashboard#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {}
+}
